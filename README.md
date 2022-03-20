@@ -11,7 +11,7 @@
 
 ## Description
 
-_A webpage to practice linking images, using CSS for styling, and basic HTML. Pages included are: Homepage, pictures, travel, contact, activities, and accomodations._
+_A webpage to practice linking images, using CSS for styling, and basic HTML. Pages included are: Homepage, pictures, travel, contact, activities, and accomodations. This was a practice website._
 
 ## Setup/Installation Requirements
 
